@@ -9,15 +9,15 @@ This project focuses on fine-tuning the `google/flan-t5-small` language model to
 Here are some screenshots of the app interface:
 
 ### Main Screen
-![Main Screen]<img width="1438" alt="App#1" src="https://github.com/user-attachments/assets/db6aae7a-92a6-432f-93c6-f49e84a83d0a">
+<img width="1438" alt="App#1" src="https://github.com/user-attachments/assets/db6aae7a-92a6-432f-93c6-f49e84a83d0a">
 
 
-### Training Progress
-![Evaluation Results#1]<img width="1440" alt="App#2" src="https://github.com/user-attachments/assets/c9e8dd93-bc2b-4b4b-b8dc-5f3a8f35300e">
+### Evaluation Results#1
+<img width="1440" alt="App#2" src="https://github.com/user-attachments/assets/c9e8dd93-bc2b-4b4b-b8dc-5f3a8f35300e">
 
 
-### Evaluation Results
-![Evaluation Results#2]<img width="1440" alt="App#3" src="https://github.com/user-attachments/assets/84d1959f-77d5-4643-ba26-fb5d6115b656">
+### Evaluation Results#2
+<img width="1440" alt="App#3" src="https://github.com/user-attachments/assets/84d1959f-77d5-4643-ba26-fb5d6115b656">
 
 
 ## Fine-Tuning Process
